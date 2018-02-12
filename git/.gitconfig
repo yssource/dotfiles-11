@@ -1,6 +1,6 @@
 [user]
   name = Alex Pearce
-  email = alex@alexpearce.me
+  email = alex.pearce@cern.ch
 [core]
   editor = nvim
   excludesfile = ~/.gitignore
